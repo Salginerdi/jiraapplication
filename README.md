@@ -14,6 +14,10 @@ Bu proje, React ve Context API kullanılarak geliştirilmiş basit bir Jira uygu
 - Axios
 - JSON Server
 
+## Önizlemek İçin
+
+https://github.com/salginerdi/Jiraapplication/assets/110611268/48601c45-f41a-4ce0-a433-0d27e463aba4
+
 -----------------------------------------
 # Jira Application
 
@@ -30,6 +34,12 @@ This project includes a simple Jira application developed using React and Contex
 - Context API
 - Axios
 - JSON Server
+
+## Preview
+
+https://github.com/salginerdi/Jiraapplication/assets/110611268/b53fcede-37a7-443f-bbef-cdd2269fec7d
+
+
 ------------------------------------------------------
 
 # React + Vite
